@@ -1,2 +1,3 @@
 third file created
 new text appended from local in sprint-1
+trying to create conflict from remote.
